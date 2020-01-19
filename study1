@@ -1,0 +1,2 @@
+vue 动态拼接:class 
+<view :class="['cuIcon-'+item.icon,'text-'+item.color]">
